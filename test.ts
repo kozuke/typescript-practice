@@ -1,6 +1,6 @@
-// export function test(arg) {
-//     return arg
-// }
+// // export function test(arg) {
+// //     return arg
+// // }
 
-let nullable = null
-nullable = 'string'
+// let nullable = null
+// nullable = 'string'
